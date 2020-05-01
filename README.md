@@ -24,7 +24,7 @@ Autor: Alisson de Andrade Araujo"
 
 ## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
- - [Curriculum](https://alissonandradesistema.000webhostapp.com/curriculo/)
+ - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
 
