@@ -24,6 +24,8 @@ Autor: Alisson de Andrade Araujo"
 
 ## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
+ - [Curriculum](https://alissonandradesistema.000webhostapp.com/curriculo/)
+
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
@@ -55,7 +57,3 @@ Autor: Alisson de Andrade Araujo"
 - [Site de Apresentação 2 de Alisson de Andrade Araújo](https://alissodeaaraujo.000webhostapp.com/index.html)
 
 :vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
-
-
-
-
