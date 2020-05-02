@@ -20,7 +20,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Instagram](https://www.instagram.com/alissonandradercc/)
 
-- [Github](https://github.com/alissonandrade2020/)
+- [Github](https://github.com/alissonandrade2020)
 
 ## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
