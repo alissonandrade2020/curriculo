@@ -18,21 +18,23 @@ Autor: Alisson de Andrade Araujo"
 
  - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
-- [Instagram](https://www.instagram.com/alissonandradercc/)
+- [Instagram](https://www.instagram.com/alissonandradercc)
 
-- [Github](https://github.com/alissonandrade2020)
+- [Github](https://github.com/alissonandrade2020/)
 
 ## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
 
  - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
-- [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
+- [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
 
- - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com)
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
   - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario)
+  
+  - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes)
 
  - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
  
