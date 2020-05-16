@@ -40,7 +40,7 @@ Autor: Alisson de Andrade Araujo"
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
-- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react)
+- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
  - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
