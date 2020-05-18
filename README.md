@@ -36,7 +36,7 @@ Autor: Alisson de Andrade Araujo"
   
   - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes)
 
- - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa/)
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
  
   - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
