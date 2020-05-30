@@ -28,7 +28,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
 
- - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com)
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
@@ -38,7 +38,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
  
-  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone/)
 
 - [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
