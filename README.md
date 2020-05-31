@@ -34,9 +34,9 @@ Autor: Alisson de Andrade Araujo"
  
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
-  - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario)
+  - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario/)
   
-  - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes)
+  - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes/)
 
  - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
  
