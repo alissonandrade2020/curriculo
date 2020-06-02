@@ -32,7 +32,7 @@ Autor: Alisson de Andrade Araujo"
  
  - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
  
- - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
+ - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19/)
  
   - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario/)
   
