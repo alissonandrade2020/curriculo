@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/alissonandrade2020/curriculo/master/234323.png)
+![Resume Preview](https://raw.githubusercontent.com/alissonandrade2020/curriculo/master/234323.png)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
