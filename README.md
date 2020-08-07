@@ -35,6 +35,8 @@ Autor: Alisson de Andrade Araujo"
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
+ 
+  - [PROFFY - Encontre seu Professor ou tenha aula online](https://proffyalissonandrade.netlify.app/)
 
  - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
  
@@ -54,7 +56,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
-- [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
+- [Sistema de Achar TINDev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
 - [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
  
