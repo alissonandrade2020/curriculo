@@ -26,7 +26,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)
 
-## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(ALISSON DE Andrade Araújo):
+## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(Alisson de Andrade Araújo):
 
  - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
