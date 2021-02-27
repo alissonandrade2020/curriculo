@@ -31,7 +31,9 @@ Autor: Alisson de Andrade Araujo"
  - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
-
+ 
+ - [Site de Exercício - Moveit](https://nlw4reactmoveit.vercel.app/)
+ 
  - [Site de Cadastro feito com PHP - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/silex/)
  
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
