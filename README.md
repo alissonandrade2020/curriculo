@@ -23,11 +23,6 @@ Autor: Alisson de Andrade Araujo"
 - [Instagram](https://www.instagram.com/alissonandradercc)
 
 - [Github](https://github.com/alissonandrade2020/)
-- :regional_indicator_l: https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190
-:git:https://github.com/alissonandrade2020
-
-:rocket: http://alissondeandradearaujo.000webhostapp.com/ 
-:rocketseat: https://app.rocketseat.com.br/me/alissondeandradearaujo
 
 - [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)
 
