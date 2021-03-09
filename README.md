@@ -32,7 +32,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
 
-- [Site Light e Dark](sistemalightdark-iota.vercel.app/)
+- [Site Light e Dark](https://sistemalightdark-iota.vercel.app/)
  
 - [Site de Exercícios - Moveit](https://nlw04reactmoveit.vercel.app/)
 
