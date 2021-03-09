@@ -31,12 +31,14 @@ Autor: Alisson de Andrade Araujo"
  - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
+
+  - [Site Light e Dark](sistemalightdark-iota.vercel.app)
  
- - [Site de Exercícios - Moveit](https://nlw4reactmoveit.vercel.app/)
+ - [Site de Exercícios - Moveit](https://nlw04reactmoveit.vercel.app)
 
   - [Site de Repositorios](https://igniterepositorios.vercel.app/)
 
--  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://igniterepositorios-alissonandrade2020.vercel.app/)
+-  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://iignite01desafio.vercel.app/)
  
  - [Site de Cadastro feito com PHP - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/silex/)
  
