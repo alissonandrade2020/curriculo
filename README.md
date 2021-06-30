@@ -53,6 +53,10 @@ Autor: Alisson de Andrade Araujo"
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.vercel.app)
+
+ - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
  
